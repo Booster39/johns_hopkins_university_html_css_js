@@ -1,0 +1,36 @@
+#ytb {
+    background-color: brown;
+}
+#twt {
+    background-color: rgb(58, 127, 255);
+    border-radius: 50px;
+
+}
+.btn {
+    background-color: black;
+    color: white;
+   /* height: 50px;
+    width: 125px;*/
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: smaller;
+    transition: opacity 0.15s;
+    margin-left: 15px;
+    margin-right: 10px;
+    /*vertical-align: top;*/
+}
+
+
+.btn:hover {
+    opacity: 0.9;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+}
+.btn:active {
+    background-color: rgb(127, 44, 44);
+}

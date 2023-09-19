@@ -1,0 +1,8 @@
+.a {
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    /* html elements sticks = ☑ */
+    width: 200px;
+    display: inline-block;
+    
+}

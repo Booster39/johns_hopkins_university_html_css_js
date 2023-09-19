@@ -1,0 +1,55 @@
+.fleur {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-top: 10px;
+
+}
+
+.nuit {
+    width: 299px;
+    height: 168px;
+}
+
+p {
+    display: inline-block;
+    
+}
+
+.a {
+    width: 94px;
+    margin: 0;
+    margin-left: 10px;
+}
+
+.vgn {
+    display: inline-block;
+}
+
+.txt {
+    width: 220px;
+    vertical-align: top;
+    display: inline-block;
+
+}
+
+.a {
+    width: 230px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.b, .c {
+    width: 220px;
+    margin: 2px;
+    margin-left: 11px;
+    font-size: 12px;
+}
+
+.vgn {
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 15px;
+    column-gap: 15px;
+}
